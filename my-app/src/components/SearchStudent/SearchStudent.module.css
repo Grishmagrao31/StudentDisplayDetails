@@ -1,0 +1,76 @@
+.SearchStudent {
+    margin-top: 30px;
+    font-family: sans-serif;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;  
+}
+.search {
+    font-family: sans-serif;
+    text-align: center;
+    line-height: 1.6;
+    width: 50%;
+    margin-bottom: 16px;
+    border-radius: 5px;
+    max-width: 400px;
+    min-width: 200px;
+    color: coral;
+  }
+  .box {
+    font-family: sans-serif;
+    text-align: center;
+    line-height: 1.6;
+    width: 50%;
+    margin-bottom: 16px;
+    border-radius: 5px;
+    max-width: 400px;
+    min-width: 200px;
+    color: coral;
+  }
+  
+  
+  .Notfound {
+    color:black;
+    padding: 10px;
+    font-family: sans-serif;
+    text-align: center;
+    line-height: 1.6;
+    width: 50%;
+    margin-bottom: 16px;
+    border-radius: 5px;
+    max-width: 400px;
+    min-width: 200px;
+    border: 1px solid black;
+    background-color:red;
+  }
+  #timeline  ul {
+    background: var(--primary-color);
+    padding: 50px 0;
+
+}
+
+.timeline ul li    {
+    list-style: none;
+    position: relative;
+    width:6px;
+    margin:0 auto;
+    padding-top: 50px;
+    background: #fff;
+    bottom: 0;
+}
+
+
+
+ /* Right side */ 
+ .timeline ul li div:nth-child(odd) div:div {
+    left: 40px;
+  transform: translate(20px, 0);
+}
+/* Left side */ 
+.timeline  ul li div:nth-child(even) div {
+ left: -434px;
+ transform: translate(-108px, 0px);
+}
+

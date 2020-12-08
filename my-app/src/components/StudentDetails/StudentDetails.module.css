@@ -1,0 +1,49 @@
+.StudentDetails {
+    font-family: sans-serif;
+    text-align: center;
+    border: 2px solid black;
+    display: block;
+    width: 50%;
+    max-width: 600px;
+    min-width: 200px;
+    margin-bottom: 20px;
+    padding: 15px;
+    line-height: 1.6;
+    border-radius: 10px;
+    background-color: antiquewhite; 
+   
+}
+.Name {
+    color: blue;
+    padding-left: 5px;
+  
+  }
+  .name {
+      color: red;
+      margin: 0.1px ;
+      padding-left:88px;
+   
+  }
+  
+  .Age {
+    color: steelblue;
+    margin: 0.1px ;
+    padding-left:88px;
+   
+  }
+  .age {
+      color: darkslateblue;
+ 
+  }
+  
+  .course {
+    color: maroon;
+    margin: 4px;
+    padding-left: 86px;
+  }
+  .Course {
+      color:red;
+      
+   
+  }
+  
