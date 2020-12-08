@@ -28,27 +28,8 @@ let students = [
         age: 22,
         course: "maths, english, hindi",
         id: 4
-        },
-        {
-          name: "Grishma",
-          age: 22,
-          course: "Maths, Science, Social",
-          id: 5
-        },
-        {
-          name: "Shreya",
-          age: 22,
-          course: "Maths, Science, Social",
-          id: 6
-        },
-        {
-          name: "Pooja",
-          age: 22,
-          course: "Maths, Science, Social",
-          id: 7
         }
         
-  
     
   ]
 
